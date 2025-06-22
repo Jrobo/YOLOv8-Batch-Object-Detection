@@ -36,7 +36,7 @@ Detect objects in multiple images using the latest YOLOv8 model with just a few 
 
 | Input Image | Output (Detected) |
 |-------------|-------------------|
-| ![bus.jpg](images/bus.jpg) | ![bus_detected.jpg](results/bus.jpg) |
+| ![zidane.jpg](images/zidane.jpg) | ![zidane_output.webp](images/zidane_output.webp) |
 
 ## Hosting a Web Demo
 

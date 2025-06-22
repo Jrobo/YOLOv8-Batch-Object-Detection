@@ -40,7 +40,7 @@ Detect objects in multiple images using the latest YOLOv8 model with just a few 
 
 ## Hosting a Web Demo
 
-Want to try it online? See below for a free web demo!
+🧠 Try it on Hugging Face: [YOLOv8 Object Detection Demo](https://huggingface.co/spaces/Jamil786786/yolov8-object-detection)
 
 ## License
 
